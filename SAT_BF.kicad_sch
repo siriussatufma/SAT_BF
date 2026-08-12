@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "92b72320-4f9a-43fd-a3c5-8d14c1d8f811")
 	(paper "A4")
+	(title_block
+		(rev "5")
+		(company "SiriusSat-ufma")
+	)
 	(lib_symbols
 		(symbol "Charleslabs_Parts:Mini360_Module"
 			(pin_numbers
